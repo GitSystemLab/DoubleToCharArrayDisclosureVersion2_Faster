@@ -8,7 +8,7 @@ This is the revision of the former one in terms of the process speed, though one
 
 // The content helps us change the arguments from double to char array(pointer).
 
-//The code of the included header file has just One loop.
+//The code of the included header file.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 [C Version]
